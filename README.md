@@ -5,4 +5,4 @@ Kurserna har skrivits ut i en översiktlig tabell.
 För att starta systemet klona först projektet genom: git clone git@github.com:Jolu1806/DT173G-Moment52.git
 Skriv därefter kommandot: npm install i en terminal
 
-En demonstration av uppgiften finns här: http://studenter.miun.se/~jolu1806/dt173g/???/"# DT173G-Moment52" 
+En demonstration av uppgiften finns här: http://studenter.miun.se/~jolu1806/dt173g/moment5/
